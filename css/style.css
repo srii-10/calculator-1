@@ -133,3 +133,7 @@ input[type=number] {
     font-size: 20px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+footer {
+    text-align: end;
+}
